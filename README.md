@@ -12,4 +12,4 @@ Image representation and description: This involves representing an image in a w
 Image analysis: This involves using algorithms and mathematical models to extract information from an image, such as recognizing objects, detecting patterns, and quantifying features.
 Image synthesis and compression: This involves generating new images or compressing existing images to reduce storage and transmission requirements.
 Digital image processing is widely used in a variety of applications, including medical imaging, remote sensing, computer vision, and multimedia.
- 
+ By Manthan Dhole
